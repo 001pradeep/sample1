@@ -7,3 +7,5 @@ def sub():
 def mul():
     pass
 
+def div():
+    pass
