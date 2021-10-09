@@ -9,3 +9,5 @@ def mul():
 
 def div():
     pass
+
+print("Simple calc functions")
